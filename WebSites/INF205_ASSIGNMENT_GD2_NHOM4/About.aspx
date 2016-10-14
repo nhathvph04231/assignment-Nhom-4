@@ -54,6 +54,14 @@
             mãi</a></span><span class="Apple-converted-space">&nbsp;</span>đặc sắc: giá cả ưu đãi, quà tặng phong phú tới Khách hàng.</span></p>
         <p style="box-sizing: border-box; margin: 6pt 0in; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: 18px; font-family: inherit; text-align: justify;">
             <span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 13px; line-height: 19.5px; font-family: tahoma;">Công ty Trần Anh có một đội ngũ nhân viên với trình độ chuyên môn cao (hơn 50% đã tốt nghiệp Đại học, Cao đẳng chuyên ngành Kinh tế, Kỹ thuật), đủ khả năng đáp ứng mọi yêu cầu dù là khắt khe nhất của Khách hàng. Không những thế, đội ngũ nhân viên của Trần Anh còn là những con người đầy lòng nhiệt huyết và luôn tận tình, niềm nở khi phục vụ Khách hàng. Tất cả các cán bộ, nhân viên trong Công ty Trần Anh đều thấu hiểu:</span></p>
+        <br style="box-sizing: border-box; margin: 0px; padding: 0px;" />
+        <p style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit;">
+        </p>
+        <p class="MsoNormal" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: 20.4px; font-family: inherit;">
+            <o:p style="box-sizing: border-box; margin: 0px; padding: 0px;"></o:p>
+        </p>
+        <p style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit;">
+        </p>
         <p style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit;">
         </p>
         <p style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit;">

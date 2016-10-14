@@ -16,7 +16,7 @@
                     <legend>Log in Form</legend>
                     <ol>
                         <li>
-                            <asp:Label runat="server" AssociatedControlID="UserName">Họ Và Tên</asp:Label>
+                            <asp:Label runat="server" AssociatedControlID="UserName">Tên Đăng Nhập</asp:Label>
                             <asp:TextBox runat="server" ID="UserName" />
                             <asp:RequiredFieldValidator runat="server" ControlToValidate="UserName"
                                  CssClass="field-validation-error" ErrorMessage="The user name field is required." />
